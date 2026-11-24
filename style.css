@@ -1,0 +1,36 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #FCF0DA;
+    color: #4C4541;
+}
+
+h1 {
+    background-color: #AEAC78;
+    box-sizing: border-box;
+    padding:10px;
+    text-align: center;
+    border: 2px solid #4C4541;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+p,
+ul,
+ol {
+    background-color: #4C4541;
+    border: 2px solid #AEAC78;
+}
+
+p,
+li {
+    color: #F2C46A;
+    padding:10px;
+    
+}
+a {
+    color: #F2C46A;
+    padding:5px;
+    margin: 5px
+}
